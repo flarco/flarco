@@ -12,7 +12,7 @@ dbNet is a web-based SQL IDE using Go as a backend, and your browser (or electro
   
 The goal is to make it a great SQL IDE which gives useful context as you hover table and column names for example. It should allow you to ingest files with ease, imagine drag-dropping a CSV file into a schema where dbNet auto-creates the table with proper column types. The other nifty part is that it can run from a shell/terminal on any machine and lets users access the UI from the browser (with `dbnet serve`). 
   
-<img width="1369" alt="image" src="https://user-images.githubusercontent.com/7671010/209956473-b8e1c549-b559-408c-aec9-c062475583c4.png">
+<img width="1241" alt="image" src="https://user-images.githubusercontent.com/7671010/209964572-4c130379-7787-4ea9-b13e-79aa674b7454.png">
 
 
 dbNet is in active developement and will be open-sourced soon. Here are some of the databases it connects to:
