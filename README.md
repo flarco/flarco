@@ -264,6 +264,8 @@ Also check out [Sling Cloud](https://slingdata.io/) if you're interested in a GU
 
 
 </details>
+  
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fritzlarco/)
 
 <!--
 **flarco/flarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
