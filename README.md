@@ -1,10 +1,17 @@
 ### Hi there 👋
 
-I'm fritz, and I most closely identify as a data engineer :grinning:. I'm a person who loves to learn and tinker. I enjoy building useful data-oriented tools that unlocks value, increases revenue and/or saves cost. Some of the projects I am most proud of are: 
+I'm fritz. I am a technical data engineer / passionate technologist who loves tackling interesting problems with code :grinning:. I'm a person who loves to learn and tinker. I enjoy building useful data-oriented tools that unlocks value, increases revenue and/or saves cost. Some of the projects I am most proud of are: 
 
 <details><summary><strong>dbNET (https://github.com/dbnet-io/dbnet)</strong></summary>
 <br/>
-dbNet is a web-based SQL IDE using Go as a backend, and your browser (or electron) as front-end. I built it because I was unsatisfied with the current database clients out there. Alot of them are top-heavy, unituitive, slow or expensive. dbNet aims to be smart and useful especially for analysis and simply querying any SQL database. The goal is to make it a great SQL IDE which give useful context as you hover table and column names for example.  I also love that it allows me to run `dbnet serve` from a linux machine and access the UI from my browser. 
+dbNet is a web-based SQL IDE using Go as a backend, and your browser (or electron) as front-end. I built it because I was unsatisfied with the database clients out there. Alot of them are top-heavy, unituitive, slow or expensive. dbNet aims to be smart and useful especially for analysis and simply querying any SQL database.
+  
+<p/>
+  
+The goal is to make it a great SQL IDE which gives useful context as you hover table and column names for example. It should allow you to ingest files with ease, imagine drag-dropping a CSV file into a schema where dbNet auto-creates the table with proper column types. The other nifty part is that it can run from a shell/terminal on any machine and lets users access the UI from the browser (with `dbnet serve`). 
+  
+<img width="1369" alt="image" src="https://user-images.githubusercontent.com/7671010/209956473-b8e1c549-b559-408c-aec9-c062475583c4.png">
+
 
 dbNet is in active developement and will be open-sourced soon. Here are some of the databases it connects to:
 * Clickhouse
@@ -246,6 +253,9 @@ $ sling conns discover LOCALHOST_DEV
 ```
 
 Also check out [Sling Cloud](https://slingdata.io/) if you're interested in a GUI instead of the CLI!
+  
+![image](https://user-images.githubusercontent.com/7671010/209959200-925a815f-1cd6-4ca2-95e1-d8dc095fa8e8.png)
+
 
 </details>
 
