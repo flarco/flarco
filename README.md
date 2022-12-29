@@ -3,7 +3,9 @@
 I'm fritz. I am a technical data engineer / passionate technologist who loves tackling interesting problems with code :grinning:. I enjoy building useful data-oriented tools that unlock value, increase revenue and/or save cost. Some of the projects I am most proud of are: 
 
 <details><summary><strong>dbNET (https://github.com/dbnet-io/dbnet)</strong></summary>
-<br/>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/7671010/209962426-a849b819-480d-4863-9676-d13a195cc19d.png" height="50">
+  </p>
 dbNet is a web-based SQL IDE using Go as a backend, and your browser (or electron) as front-end. I built it because I was unsatisfied with the database clients out there. Alot of them are top-heavy, unituitive, slow or expensive. dbNet aims to be smart and useful especially for analysis and simply querying any SQL database.
   
 <p/>
@@ -31,7 +33,9 @@ dbNet is in active developement and will be open-sourced soon. Here are some of 
 </details>
 
 <details><summary><strong>dbREST (https://github.com/flarco/dbREST)</strong></summary>
-<br/>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/7671010/209962006-fa72b231-fb12-4e78-8c72-eb7906874650.png" height="50">
+  </p>
 
 dbREST is basically an API backend that you can put in front of your database. Ever wanted to spin up an API service in front of your Snowflake, MySQL or even SQLite database? Well, dbREST allows that! Running `dbrest serve` will launch an API process which allow you to:
 
@@ -207,7 +211,9 @@ dbREST is in active developement. Here are some of the databases it connects to:
 </details>
 
 <details><summary><strong>Sling (https://docs.slingdata.io/)</strong></summary>
-<br/>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/7671010/209962606-ae2792a6-712e-4689-b5e9-cf4283749d8b.png" height="50">
+  </p>
 Sling is a passion project turned into a free CLI & SaaS Product which offers an easy solution to create and maintain high volume data pipelines using the Extract & Load (EL) approach. It focuses on data movement between:
 
 * Database to Database
