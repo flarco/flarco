@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm fritz. I am a technical data engineer / passionate technologist who loves tackling interesting problems with code :grinning:. I enjoy building useful data-oriented tools that unlocks value, increases revenue and/or saves cost. Some of the projects I am most proud of are: 
+I'm fritz. I am a technical data engineer / passionate technologist who loves tackling interesting problems with code :grinning:. I enjoy building useful data-oriented tools that unlock value, increase revenue and/or save cost. Some of the projects I am most proud of are: 
 
 <details><summary><strong>dbNET (https://github.com/dbnet-io/dbnet)</strong></summary>
 <br/>
