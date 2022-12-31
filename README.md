@@ -2,7 +2,7 @@
 
 I'm fritz. I am a technical data engineer / passionate technologist who loves tackling interesting problems with code :grinning:. I enjoy automating processes and building useful data-oriented tools/infrastructure that unlock value, increase revenue and/or save cost. Some of the projects I am most proud of are: 
 
-<details><summary><strong>dbNET (https://github.com/dbnet-io/dbnet)</strong></summary>
+<details><summary><strong>dbNET (https://github.com/dbnet-io/dbnet)</strong> -- A database web client that lets your SQL superpowers shine.</summary>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/7671010/209962426-a849b819-480d-4863-9676-d13a195cc19d.png" height="50">
   </p>
@@ -32,7 +32,7 @@ dbNet is in active developement and will be open-sourced soon. Here are some of 
 * Databricks (coming soon)
 </details>
 
-<details><summary><strong>dbREST (https://github.com/flarco/dbREST)</strong></summary>
+<details><summary><strong>dbREST (https://github.com/flarco/dbREST)</strong> -- Instantly spin up a REST API for any major database.</summary>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/7671010/209962006-fa72b231-fb12-4e78-8c72-eb7906874650.png" height="50">
   </p>
@@ -210,7 +210,7 @@ dbREST is in active developement. Here are some of the databases it connects to:
 
 </details>
 
-<details><summary><strong>Sling (https://docs.slingdata.io/)</strong></summary>
+<details><summary><strong>Sling (https://docs.slingdata.io/)</strong> -- Extract/Load into your database with ease from your shell terminal.</summary>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/7671010/209962606-ae2792a6-712e-4689-b5e9-cf4283749d8b.png" height="50">
   </p>
