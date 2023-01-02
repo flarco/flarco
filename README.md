@@ -45,7 +45,7 @@ dbREST is basically an API backend that you can put in front of your database. E
 <details><summary>Select a table's data</summary>
   
 ```http
-GET /snowflake_db/my_schema/docker_logs?.fields=container_name,timestamp&.limit=100
+GET /snowflake_db/my_schema/docker_logs?.columns=container_name,timestamp&.limit=100
 ```
   
 ```json
