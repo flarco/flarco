@@ -24,7 +24,7 @@ Or want to copy data between two databases? Do it with sling:
 sling run --src-conn PG_DB --src-stream public.transactions --tgt-conn MYSQL_DB --tgt-object mysql.bank_transactions --mode full-refresh
 ```
 
-We can also easily manage our local connections with the `sling conns` command:
+Sling can also easily manage our local connections with the `sling conns` command:
 
 ```bash
 $ sling conns set MY_PG url='postgresql://postgres:myPassword@pghost:5432/postgres'
