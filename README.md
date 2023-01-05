@@ -51,11 +51,6 @@ $ sling conns discover LOCALHOST_DEV
  ...
 ```
 
-Also check out [Sling Cloud](https://slingdata.io/) if you're interested in a GUI instead of the CLI!
-  
-![image](https://user-images.githubusercontent.com/7671010/209959200-925a815f-1cd6-4ca2-95e1-d8dc095fa8e8.png)
-
-
 </details>
   
   
