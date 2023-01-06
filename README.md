@@ -2,7 +2,7 @@
 
 I'm fritz. I am a technical data engineer / passionate technologist who loves tackling interesting problems with code :grinning:. I enjoy automating processes and building useful data-oriented tools/infrastructure that unlock value, increase revenue and/or save cost. Some of the projects I am most proud of are: 
 
-<details><summary><strong>Sling (https://docs.slingdata.io/)</strong> -- Extract/Load into your database with ease from your shell terminal.</summary>
+<details><summary><strong>Sling (https://github.com/slingdata-io/)</strong> -- Extract/Load into your database with ease from your shell terminal.</summary>
   <br/>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/7671010/209962606-ae2792a6-712e-4689-b5e9-cf4283749d8b.png" height="50">
