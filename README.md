@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm fritz. I am a technical data engineer / passionate technologist who loves tackling interesting problems with code :grinning:. I enjoy automating processes and building useful data-oriented tools/infrastructure that unlock value, increase revenue and/or save cost. Some of the projects I am most proud of are: 
+I'm fritz. I am a technical data engineer / passionate technologist who loves tackling interesting problems with code :grinning:.
+Some of the projects I am most proud of are: 
 
 <details><summary><strong>Sling (https://github.com/slingdata-io)</strong> -- Extract/Load into your database with ease from your shell terminal.</summary>
   <br/>
