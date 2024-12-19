@@ -268,6 +268,13 @@ dbNet is in active developement and will be open-sourced soon. Here are some of 
   
 ![counter](https://enmcqy78cs9bmdd.m.pipedream.net)
 
+
+<div align="left">
+  <a href="https://github.com/rafaelstalse">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=flarco&show_icons=true&theme=dracula"/>
+  <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelstalse&layout=compact&langs_count=7&theme=dracula"/>-->
+</div>
+
   
 <!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fritzlarco/)](https://www.linkedin.com/in/fritzlarco/)
